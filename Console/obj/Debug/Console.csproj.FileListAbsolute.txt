@@ -1,0 +1,8 @@
+D:\Playtika Test\Console\Console\bin\Debug\Console.exe.config
+D:\Playtika Test\Console\Console\bin\Debug\Console.exe
+D:\Playtika Test\Console\Console\bin\Debug\Console.pdb
+D:\Playtika Test\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+D:\Playtika Test\Console\Console\obj\Debug\Console.exe
+D:\Playtika Test\Console\Console\obj\Debug\Console.pdb
+D:\Playtika Test\Console\Console\bin\Debug\Core.dll
+D:\Playtika Test\Console\Console\bin\Debug\Core.pdb

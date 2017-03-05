@@ -1,0 +1,4 @@
+D:\Playtika Test\Console\Core\bin\Debug\Core.dll
+D:\Playtika Test\Console\Core\bin\Debug\Core.pdb
+D:\Playtika Test\Console\Core\obj\Debug\Core.dll
+D:\Playtika Test\Console\Core\obj\Debug\Core.pdb
